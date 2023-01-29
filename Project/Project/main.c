@@ -3,7 +3,7 @@
  *
  * Created: 1/28/2023 3:52:17 PM
  * Author : amen safwat
- * Project Name : Turning LED ON/OFF using Bush Button. 
+ * Project Name : Turning LED ON/OFF using Bush Button. using pull up resistore in the microcontroller.
 
  */ 
 
